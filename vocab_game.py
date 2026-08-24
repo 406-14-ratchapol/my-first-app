@@ -106,7 +106,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: The court heard t__tim_ny from three witnesses.👨‍⚖️ ",
+    "ข้อ 4: The court heard 't__tim_ny' from three witnesses.👨‍⚖️ ",
     value=st.session_state.ans4_val,
 )
 
