@@ -45,7 +45,7 @@ def show_result_dialog(ans1, ans2, ans3, ans4, ans5):
     u_ans3 = ans3.strip().lower()
     u_ans4 = ans4.strip().lower()
     u_ans5 = ans5.strip().lower()
-    u_ans5 = ans6.strip().lower()
+    u_ans6 = ans6.strip().lower()
 
 
     # ตรวจข้อ 1
